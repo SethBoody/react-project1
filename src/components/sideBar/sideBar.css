@@ -1,0 +1,17 @@
+.sideBar{
+    width: 25%;
+    background-color: #f6f6f6;
+    height: calc(100vh - 63px);
+}
+.sideBar ul{
+    list-style: none;
+}
+
+.sideBar a{
+    display: block;
+    color : #333;
+    padding: 7px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    text-decoration: none;
+}
